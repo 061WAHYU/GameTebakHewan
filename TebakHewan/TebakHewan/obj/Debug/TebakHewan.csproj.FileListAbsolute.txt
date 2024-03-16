@@ -1,0 +1,7 @@
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\bin\Debug\TebakHewan.exe.config
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\bin\Debug\TebakHewan.exe
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\bin\Debug\TebakHewan.pdb
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\obj\Debug\TebakHewan.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\obj\Debug\TebakHewan.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\obj\Debug\TebakHewan.exe
+D:\Kuliah\SEMESTER 6\TebakHewan\TebakHewan\obj\Debug\TebakHewan.pdb
